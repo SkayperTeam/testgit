@@ -1,0 +1,13 @@
+.blockParent {
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    margin-top: 400px;
+    margin-left: 200px;
+}
+
+.blockChild {
+    background-color: black;
+    width: 200px;
+    height: 100px;
+}
